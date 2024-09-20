@@ -1,0 +1,1 @@
+Emula la classe HelloWorld
